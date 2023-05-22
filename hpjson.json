@@ -1,6 +1,9 @@
 {
+  "DisplayName": "HP bloatware details",
   "Version": "1.0",
   "Id": "37b80a76-547f-4004-b26a-0b565c3ed1ec",
+  "Manufacturer": "HP",
+  "AppxIdentifier": "AD2F1837",
   "PackagesByName": [
     "HP Client Security Manager",
     "HP Connection Optimizer",
@@ -19,7 +22,6 @@
     "HP Wolf Security Application Support for Sure Sense",
     "HP Wolf Security Application Support for Windows"
   ],
-  "DisplayName": "HP bloatware details",
   "MSIcodes": [
     "{0E2E04B0-9EDD-11EB-B38C-10604B96B11E}",
     "{4DA839F0-72CF-11EC-B247-3863BB3CB5A8}",
@@ -28,8 +30,6 @@
     "{6468C4A5-E47E-405F-B675-A70A70983EA6}",
     "{F95ACB1A-6CB3-4360-BC16-A5E375B22720}"
   ],
-  "AppxIdentifier": "AD2F1837",
-  "Manufacturer": "HP",
   "AppxPackages": [
     "AD2F1837.HPJumpStarts",
     "AD2F1837.HPPCHardwareDiagnosticsWindows",
